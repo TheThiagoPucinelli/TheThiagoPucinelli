@@ -34,8 +34,8 @@
 🎓 **Técnico em Desenvolvimento de Sistemas** pelo **IFSul**  
 🏅 **Estudante Destaque** pelo desempenho acadêmico  
 🎓 **Graduando em Sistemas para Internet**  
-💙 **Apaixonado por Desenvolvimento Front-end e criação de experiências digitais**  
-🚀 Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em interfaces modernas  
+ **Focado em Desenvolvimento Front-end e criação de experiências digitais**  
+ Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em interfaces modernas  
 📍 **Pelotas • Rio Grande do Sul • Brasil**
 
 </div>
