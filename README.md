@@ -36,7 +36,7 @@
 🎓 **Graduando em Sistemas para Internet**  
  **Focado em Desenvolvimento Front-end e criação de experiências digitais**  
  Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em interfaces modernas  
-📍 **Pelotas • Rio Grande do Sul • Brasil**
+📍 **Brasil**
 
 </div>
 
